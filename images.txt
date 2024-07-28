@@ -1,2 +1,1 @@
-prom/alertmanager:v0.27.0
-prom/prometheus:v2.53.0
+docker.io/calico/node:v3.28.0
