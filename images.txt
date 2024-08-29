@@ -1,2 +1,1 @@
-nginx:1.24
-nginx:1.22
+zabbix/zabbix-server-mysql:latest
