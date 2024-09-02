@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:latest
+registry.k8s.io/ingress-nginx/controller:v1.11.2
